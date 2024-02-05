@@ -37,4 +37,4 @@ An input string is valid if:
 
 ## Extra
 
-Run you fools! this time there is no extra spice.
+Run, you fools! No extra spicy stuff this time.
