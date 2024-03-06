@@ -38,3 +38,7 @@ An input string is valid if:
 ## Extra
 
 Run, you fools! No extra spicy stuff this time.
+
+## Credits
+
+This exercise has been extracted from the [LeetCode](https://leetcode.com/problems/valid-parentheses) website. Don't hesitate, join and practice in this great community.
